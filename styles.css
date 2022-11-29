@@ -1,0 +1,30 @@
+.card {
+  width: 400px;
+  border-radius: 5px;
+  border: 1px solid;
+  padding: 10px 0px 45px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card .titulo {
+  font-family: cursive;
+}
+
+.card button {
+  border-radius: 15px;
+  border: 0;
+  padding: 7px 8px;
+}
+
+.pendentes {
+  background-color: #8fd14f;
+}
+
+.concluidas {
+  background-color: #0ca789;
+}
+
+.excluidas {
+  background-color: #eb4045;
+}
