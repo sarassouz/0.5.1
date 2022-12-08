@@ -33,7 +33,7 @@
   width: 250px;
   height: 50px;
   text-align: start;
-  border: 1px solid #8fd14f;
+  border: 1px solid #0ca789;
   margin: 2px;
   transform: scale(4px);
 }
@@ -42,5 +42,5 @@
 }
 
 .tarefa > button:nth-child(even) {
-  background-color: #8fd14f;
+  background-color: #0ca789;
 }
